@@ -1,3 +1,10 @@
-// Resolva neste ficheiro o seu exercício
+#include <stdio.h>
+
+int main ()
+{
+
+	printf("Saida esperada\n  ###\n #   #\n #   #\n  ###");
+	return (0);
+}
 
 
